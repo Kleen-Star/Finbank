@@ -119,6 +119,10 @@ Browse investment assets and invest with guided insights.
 -   Expanded investment marketplace\
 -   Full welfare marketplace partnerships
 
+## 🚀 Pitch Deck
+
+    https://gamma.app/docs/FinBank-The-All-in-One-Fintech-App-Revolutionizing-Personal-SME-F-s0fuy9j1nuj9pij
+
 ## 🎯 Conclusion
 
 FinBank is built to empower millions with seamless, inclusive financial
